@@ -1,4 +1,4 @@
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
